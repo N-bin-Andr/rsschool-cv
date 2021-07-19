@@ -1,21 +1,20 @@
 # Curriculum vitae
 
-
 ## Personal information
 
 Name: Nabebin Andrew  
 Sex: male  
-Date of birth: 10/04/1970    
+Date of birth: 1970/04/10  
 Minsk, Belarus  
 E-mail: n.bin.andr@gmail.com  
-Twitter: @Nab_Andrey    
+Twitter: @Nab_Andrey
 
-* analytical capability; 
-* thoughtful;
-* inquisitive;
-* ambitious;
-* responsible;
-* communicative;
+- analytical capability;
+- thoughtful;
+- inquisitive;
+- ambitious;
+- responsible;
+- communicative;
 
 ## Goals:
 
@@ -28,7 +27,6 @@ software development
 State Committee for Forensic Expertise of the Republic of Belarus, Expert Qualification Commission (Minsk, Belarus).
 Qualification:
 State Medical Forensic Expert, highest qualification category.
-
 
 August 01/2005 to June 30/2006
 
@@ -83,4 +81,3 @@ Minsk City Clinical Oncologic Dispensary (Minsk, Belarus). Thyroid telepathology
 ## Studying
 
 Git, GitHub, HTML, CSS, JS, Visual Studio Code.
-
