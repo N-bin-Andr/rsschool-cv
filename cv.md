@@ -3,12 +3,12 @@
 
 ## Personal information
 
-Name: Nabebin Andrew
-Sex: male
-Date of birth: 10/04/1970
-Minsk, Belarus.
-E-mail: n.bin.andr@gmail.com
-Twitter: @Nab_Andrey
+Name: Nabebin Andrew  
+Sex: male  
+Date of birth: 10/04/1970    
+Minsk, Belarus  
+E-mail: n.bin.andr@gmail.com  
+Twitter: @Nab_Andrey    
 
 * analytical capability; 
 * thoughtful;
@@ -60,7 +60,7 @@ Qualification : Diploma (electrical fitter on duty and equipment repair).
 
 2005 — 2021
 
-Freelancer. VBA development for Microsoft Office Applications. https://github.com/N-bin-Andr/Forencis/tree/Bones/Bones/Cranium/Resorces.
+Freelancer. VBA development for Microsoft Office Applications (https://github.com/N-bin-Andr/Forencis/tree/Bones/Bones/Cranium/Resorces).
 
 2002 - 2003
 
@@ -76,7 +76,7 @@ Minsk City Clinical Oncologic Dispensary (Minsk, Belarus). Thyroid telepathology
 - Microsoft Office: Word, Excel, Outlook, PowerPoint, Access, InfoPath, OneNote;
 - Leica IM 1000, Leica Viewer, Leica Application Suit (LAS)
 - Copernic Agent.
-- VBA development, VB6
+- VBA development, VB6 (https://github.com/N-bin-Andr/Forencis/tree/Bones/Bones/Cranium/Resorces/code "Example VBA code").
 - JAVA (free online courses), FX, JetBrains IntelliJ IDEA
 - linux, linux console.
 
