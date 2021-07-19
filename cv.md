@@ -5,10 +5,10 @@
 
 Name: Nabebin Andrew
 Sex: male
-Date of birth: April 10, 1970
+Date of birth: 10/04/1970
 Minsk, Belarus.
-Phone: +375 mobile: 296 288 88 08
 E-mail: n.bin.andr@gmail.com
+Twitter: @Nab_Andrey
 
 * analytical capability; 
 * thoughtful;
@@ -77,8 +77,7 @@ Minsk City Clinical Oncologic Dispensary (Minsk, Belarus). Thyroid telepathology
 - Leica IM 1000, Leica Viewer, Leica Application Suit (LAS)
 - Copernic Agent.
 - VBA development, VB6
-- JAVA (free online courses), FX, JetBrains IntelliJ IDEA (link)
-- Git
+- JAVA (free online courses), FX, JetBrains IntelliJ IDEA
 - linux, linux console.
 
 ## Studying
