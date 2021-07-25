@@ -1,4 +1,4 @@
-/*Обнуление*/
+/*Style Reset*/
 * {
 	padding: 0;
 	margin: 0;
@@ -77,34 +77,97 @@ h6 {
 	font-size: inherit;
 	font-weight: 400;
 }
-/*--------------------*/
-
+/*CV Style*/
 body {
-	background-color: rgb(186, 209, 209);
-}
-
-h1 {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 26pt;
-	font-weight: 300;
-	color: #000000;
-	text-align: center;
-}
-h2 {
-	font-family: "Times New Roman", Times, serif;
-	font-weight: 300;
-	font-size: 18pt;
-	color: #000000;
-}
-h3 {
-	font-family: "Times New Roman", Times, serif;
-	font-weight: 200;
-	font-size: 14pt;
-	color: #000000;
-}
-body {
+	padding: 30px;
 	text-indent: 50px;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 14pt;
 	color: #000000;
+}
+
+h1,
+h2,
+h3{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 600;
+	color: #000000;
+}
+h1 {
+	font-size: 30pt;
+	text-align: center;
+}
+h2 {
+	font-size: 20pt;
+	text-align:left;
+	margin: 0 0 0 55px;
+	
+}
+
+h3 {
+	font-size: 16pt;
+	margin: 0 0 0 15px;
+	text-align-last: left;
+	padding: 10px 0;
+}
+
+.block{
+	height:450px;
+	background: url('/img/N@n18х13.png') 60px 10px/310px no-repeat;
+	margin: 10px 0 0 50px;
+	background-color: rgb(173, 209, 189);
+	min-width: 500px;
+}
+.name{
+	font-weight:600;
+	font-size: 35pt;
+	margin: 0 0 0 30px;
+
+}
+
+.pi {
+	margin: 50px 100px 0px 490px;
+	padding: 30px 0;
+	font-size: 30px;
+	min-width: 500px;
+}
+
+.pilist{
+	font-size: 30px;
+	margin: 10px 0 25px 490px;
+	list-style-type: disc;
+}
+
+.address{
+	margin: 0 0 0 30px;
+}
+.tel{
+	padding: 0 0 0 110px;
+}
+
+.infoblock{
+	padding: 15px 20px;
+	margin: 5px 0 0 50px;
+	line-height: 1.2;
+	font-size: 15pt;
+	text-align: left;
+	text-indent: 1px;
+	
+}
+
+.list{
+	margin: 5px 0 0 0;
+}
+
+.footer{
+	margin: 20px 20px;
+	background: url('/img/rs_school_js.svg') right 25px/auto 50px no-repeat;
+	height: 110px;
+	background-color: rgb(173, 209, 189);
+}
+
+.footlist{
+	margin: 15px 100px 10px 5px;
+	padding: 13px 0 0 0;
+	line-height: 1.2;
 }
