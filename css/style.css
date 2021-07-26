@@ -101,7 +101,6 @@ h2 {
 	font-size: 20pt;
 	text-align:left;
 	margin: 0 0 0 55px;
-	
 }
 
 h3 {
@@ -111,31 +110,27 @@ h3 {
 	padding: 10px 0;
 }
 
+.block,
+.infoblock,
+.footer {
+	margin: 0 auto;
+	width: 980px ;
+}
+
 .block{
 	height:450px;
-	background: url('/img/N@n18х13.png') 60px 10px/310px no-repeat;
-	margin: 10px 0 0 50px;
 	background-color: rgb(173, 209, 189);
 	min-width: 500px;
 }
+.img{
+	height: 430px;
+	margin: 8px;
+}
+
 .name{
 	font-weight:600;
 	font-size: 35pt;
 	margin: 0 0 0 30px;
-
-}
-
-.pi {
-	margin: 50px 100px 0px 490px;
-	padding: 30px 0;
-	font-size: 30px;
-	min-width: 500px;
-}
-
-.pilist{
-	font-size: 30px;
-	margin: 10px 0 25px 490px;
-	list-style-type: disc;
 }
 
 .address{
@@ -147,20 +142,20 @@ h3 {
 
 .infoblock{
 	padding: 15px 20px;
-	margin: 5px 0 0 50px;
 	line-height: 1.2;
 	font-size: 15pt;
 	text-align: left;
 	text-indent: 1px;
-	
 }
 
 .list{
 	margin: 5px 0 0 0;
 }
+.pilist{
+	margin: 0 0 0 190px;
+}
 
 .footer{
-	margin: 20px 0 0 50px;
 	background: url('/img/rs_school_js.svg') right 25px/auto 50px no-repeat;
 	height: 110px;
 	background-color: rgb(173, 209, 189);
