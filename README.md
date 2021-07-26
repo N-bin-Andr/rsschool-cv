@@ -1,3 +1,4 @@
 # rsschool-cv
-# https://N-bin-Andr.github.io/rsschool-cv/cv 
-# https://N-bin-Andr.github.io/rsschool-cv/
+
+## https://n-bin-andr.github.io/rsschool-cv/
+
