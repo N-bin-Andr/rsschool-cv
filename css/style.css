@@ -1,0 +1,168 @@
+/*Style Reset*/
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,
+*:before,
+*:after {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,
+:active {
+	outline: none;
+}
+a:focus,
+a:active {
+	outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+	display: block;
+}
+
+html,
+body {
+	height: 100%;
+	width: 100%;
+	font-size: 100%;
+	line-height: 1;
+	font-size: 14px;
+	-ms-text-size-adjust: 100%;
+	-moz-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+input,
+button,
+textarea {
+	font-family: inherit;
+}
+
+input::-ms-clear {
+	display: none;
+}
+button {
+	cursor: pointer;
+}
+button::-moz-focus-inner {
+	padding: 0;
+	border: 0;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+ul li {
+	list-style: none;
+}
+img {
+	vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-size: inherit;
+	font-weight: 400;
+}
+/*CV Style*/
+body {
+	padding: 30px;
+	text-indent: 50px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14pt;
+	color: #000000;
+}
+
+h1,
+h2,
+h3{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: 600;
+	color: #000000;
+}
+h1 {
+	font-size: 30pt;
+	text-align: center;
+}
+h2 {
+	font-size: 20pt;
+	text-align:left;
+	margin: 0 0 0 55px;
+}
+
+h3 {
+	font-size: 16pt;
+	margin: 0 0 0 15px;
+	text-align-last: left;
+	padding: 10px 0;
+}
+
+.block,
+.infoblock,
+.footer {
+	margin: 0 auto;
+	width: 980px ;
+}
+
+.block{
+	height:450px;
+	background-color: rgb(173, 209, 189);
+	min-width: 500px;
+}
+.img{
+	height: 430px;
+	margin: 8px;
+}
+
+.name{
+	font-weight:600;
+	font-size: 35pt;
+	margin: 0 0 0 30px;
+}
+
+.address{
+	margin: 0 0 0 30px;
+}
+.tel{
+	padding: 0 0 0 110px;
+}
+
+.infoblock{
+	padding: 15px 20px;
+	line-height: 1.2;
+	font-size: 15pt;
+	text-align: left;
+	text-indent: 1px;
+}
+
+.list{
+	margin: 5px 0 0 0;
+}
+.pilist{
+	margin: 0 0 0 190px;
+}
+
+.footer{
+	background: url("//img/rs_school_js.svg") right 25px/auto 50px no-repeat;
+	height: 110px;
+	background-color: rgb(173, 209, 189);
+}
+
+.footlist{
+	margin: 15px 100px 10px 5px;
+	padding: 13px 0 0 0;
+	line-height: 1.2;
+}
