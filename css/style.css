@@ -156,7 +156,7 @@ h3 {
 }
 
 .footer{
-	background: url('/img/rs_school_js.svg') right 25px/auto 50px no-repeat;
+	background: url("//img/rs_school_js.svg") right 25px/auto 50px no-repeat;
 	height: 110px;
 	background-color: rgb(173, 209, 189);
 }
