@@ -19,14 +19,12 @@ a:focus,
 a:active {
   outline: none;
 }
-
 nav,
 footer,
 header,
 aside {
   display: block;
 }
-
 html,
 body {
   height: 100%;
@@ -67,7 +65,6 @@ ul li {
 img {
   vertical-align: top;
 }
-
 h1,
 h2,
 h3,
